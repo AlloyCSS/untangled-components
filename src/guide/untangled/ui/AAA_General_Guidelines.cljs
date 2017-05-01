@@ -12,7 +12,7 @@
     [untangled.client.mutations :as m]))
 
 (defcard-doc
-  "# Untangled UI Component Usage
+  "# Untangled Component Usage
 
   There are a few kinds of things in this library:
 

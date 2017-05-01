@@ -7,7 +7,7 @@
             [om.dom :as dom]))
 
 (defarticle intro
-"# Untangled UI
+"# AlloyCSS
 
 A styleguide of user interface patterns for web applications and websites built with a custom PostCSS preprocessor
 rendered with ClojureScript.
@@ -22,7 +22,7 @@ With over 25 components, this library has matured into a simplified collection t
 ## What is this for?
 
 This project is meant to suppliment your next application or website with a wide array of components that are styled for
-your HTML or Clojurescript project. If you are using Untangled UI, you will automatically get these styles by default.
+your HTML or Clojurescript project. If you are using AlloyCSS, you will automatically get these styles by default.
 
 
 ## What problem does this solve?
@@ -44,7 +44,7 @@ can expect to ship in browsers a decade from now. In short, you can write new st
 
 # Getting Started
 
-Untangled UI comes in a few different flavors to fit your needs. Please choose a flavor and follow the guide to get started.
+AlloyCSS comes in a few different flavors to fit your needs. Please choose a flavor and follow the guide to get started.
 
 ## Components
 

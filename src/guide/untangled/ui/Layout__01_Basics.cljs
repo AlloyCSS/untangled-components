@@ -17,7 +17,7 @@
 (defcard-doc
   "# Layout
 
-  Untangled UI includes CSS for a responsive grid that is 12-elements wide. The `layout` namespace includes a number
+  AlloyCSS includes a collection of utilities for a responsive grid that is 12-elements wide. The `layout` namespace includes a number
   of functions that can generate the various DOM elements with the correct classes in a more conside form to
   make code more readable (and potentially more portable, since the concepts are not tied to DOM or CSS directly).
 
@@ -173,7 +173,7 @@
 (defcard vertical-spacing
   "# Vertical Spacing
 
-  The grid system in Untangled UI follows the principles of vertical rhythm. Most elements
+  The grid system follows the principles of vertical rhythm. Most elements
   are sized to a standard grid line height. This makes it easy to do a large number
   of complex alignment things easily.
 
