@@ -1,14 +1,10 @@
-(defproject navis/untangled-ui "1.0.0-alpha2-SNAPSHOT"
+(defproject alloycss/untangled-components "1.0.0"
   :description "Untangled Components is a library of pre-built CSS and active components for use with Untangled and Om Next"
-  :url ""
+  :url "https://github.com/alloycss/untangled-components"
   :license {:name "MIT"
             :url  "https://opensource.org/licenses/MIT"}
 
   :dependencies [[clojurewerkz/money "1.9.0"]
-                 ;[ru.yandex.qatools.ashot/ashot "1.5.2" :scope "test"]
-                 ;[org.seleniumhq.selenium/selenium-java "3.0.1" :scope "test"]
-                 ;[org.seleniumhq.selenium/htmlunit-driver "2.24" :scope "test"]
-                 ;[clj-webdriver "0.7.2" :scope "test"]
                  [image-resizer "0.1.9"]
                  [lein-doo "0.1.7" :scope "test"]
                  [org.clojure/clojure "1.9.0-alpha14" :scope "provided"]
